@@ -16,7 +16,7 @@ PySpark recommendation system for Amazon products created for INFO 607 at Drexel
 Our team consisted of the following individuals (alphabetized by last name): 
 
 - Zach Carlson, zc378@drexel.edu
-- Aviv Faraj, 
+- Aviv Faraj,   af3228@drexel.edu
 - Katy Matulay, km3868@drexel.edu
 
 ## Project Requirements
